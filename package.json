@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bahni",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "gulp": "~3.8.11",
+    "browser-sync": "~2.0.1"
+  }
+}
